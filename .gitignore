@@ -1,0 +1,15 @@
+# Entornos y cachés
+.venv/
+__pycache__/
+*.pyc
+data/interim/
+data/
+# R y RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Temporales de Word, editores y sistema
+~$*
+.vscode/
+._*
